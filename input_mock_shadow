@@ -1,0 +1,12 @@
+user_1_char_md5:$1$xNmSH8Ha$22BoFT2wpjdNho07KHwEy.:18000:0:99999:7:::
+user_2_char_md5:$1$pbUBk7sl$Ff7Nc3Onz9MBAJKZXPiLK/:18000:0:99999:7:::
+user_3_char_md5:$1$F8Hwbz0C$rxgp5aLo3VNbpMqyzzw400:18000:0:99999:7:::
+user_4_char_md5:$1$c8mAfAje$QxXK7N92l.pCzdZ10qa4E/:18000:0:99999:7:::
+user_1_char_sha256:$5$WRuokKXF4KRDBgG6$eqQ8wdnSyFes3gQrWd.jC8DbbcDb/B.mWXD1/djWeq1:18000:0:99999:7:::
+user_2_char_sha256:$5$KvwwjyIu749DBgVP$oblvsbLk9d3M5myQ9zZxSSfxd2lX.e/ni3MNMUsYAdD:18000:0:99999:7:::
+user_3_char_sha256:$5$HcENtwDsnvi7lBoC$AOGJXzPPpFmTLklEid9znZHrf4aUYLoG0g4/XHMnaYB:18000:0:99999:7:::
+user_4_char_sha256:$5$fio3HM2fCRq9gAyf$zk71qa7.f56qjUbjWFvR3qrrGX0rBl/e/n0TWy27lH2:18000:0:99999:7:::
+user_1_char_sha512:$6$5jBn0b06f2ydvS3d$ZHsMe06YcxHPwH92VzdVj2pLYDs93ZvjSo8SLLxAczWTTx9Wme1BadOkftQxEormaBINaJy292LxOJoahl5TC/:18000:0:99999:7:::
+user_2_char_sha512:$6$KxvEWlAVtViFzlEm$tLOry/PvGT5ctdmaLX9j7D1rNg1eDzvv/c.IMFrg1IIuiZeUJ5OsL1z.dLbmTMVsdEFqG5YEpG81wSoCRbcGS1:18000:0:99999:7:::
+user_3_char_sha512:$6$7WSDsze7Gbf3QLaE$5sxoldoKH820CL/cCFQHN1ZTKJsqAn5zYZOkhakyGqb.dawoJWXaAkbTZJwRIHuahaGxsJrLsDXQU5OCLicWh.:18000:0:99999:7:::
+user_4_char_sha512:$6$TlHMjaFsLJEFUt1Z$7aX9.5A6nHB6Srq9q1zLUAThjimkxK8EJ7pMXaKuJqMi69W1TgQdB4YieZ4VQ3GX3L7/H8dEBX/RJrGicIn7l/:18000:0:99999:7:::
